@@ -1,0 +1,7 @@
+.react-multi-carousel-track{
+    z-index: -1;
+}
+
+.react-multi-carousel-dot-list{
+    bottom: 2.5rem !important;
+}
